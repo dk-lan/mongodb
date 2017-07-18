@@ -64,7 +64,7 @@ net:
 6. 在启动服务的前提下，可以直接在命令窗口输入命令 `mongo` 便可直接进入 MongoDB 的命令操作窗口，无需要先跳转到 bin 目录
 
 # MongoDB 操作
-- 数据库操作
-- 文档操作
+- [数据库操作](https://github.com/dk-lan/mongodb/tree/master/db)
+- [文档操作](https://github.com/dk-lan/mongodb/tree/master/collection)
 - 用户操作
 - 复杂查询
